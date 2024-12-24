@@ -2,10 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f5f5f7&size=35&center=true&vCenter=true&width=1000&lines=Hey,+I'm+Balram!!🌐✨;Full-Time+Data+Geek+!!;+I+make+sense+out+of+data+chaos!!;Let+the+madness+begins!!+🎪🤹‍♂️+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=katkuriBalram &show_icons=true&count_private=true&hide_border=true&title_color=0066cc&icon_color=f5f5f7&text_color=424245&bg_color=f5f5f7" alt="katkuriBalram github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katkuriBalram &layout=compact&hide_border=true&title_color=0066cc&text_color=424245&bg_color=f5f5f7" />
-</div>
 
 Skills: Machine Learning, Deep Learning, NLP, Statistical Analysis, Data Science
 <img align="right" alt="Coding" width="400" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
